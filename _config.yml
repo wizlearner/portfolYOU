@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : 0Research
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "Helps You Ask The Right Question while using ,
-                      search engines."
+                      "Search Assistant that helps 'You Ask The Right Question' while using search engines."
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -12,7 +11,8 @@ remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you ar
 ### Author Info ###
 author:
   name              : Wiz Learner
-  image             : https://swagpix.com/system/photos/resources/000/002/568/show/couch-conference-startup-bro-concentration.jpg?1454235128
+  image             : https://github.com/wizlearner/wizlearner.github.io/blob/master/0Research_MobileScreenShot.png
+  # https://swagpix.com/system/photos/resources/000/002/568/show/couch-conference-startup-bro-concentration.jpg?1454235128
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
